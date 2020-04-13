@@ -3,3 +3,18 @@ body{
 	margin: 0;
 
 }
+nav{
+	background-color:white;
+	max-width: 300px;
+	height: 240vh;
+border-right: 1px solid gray;
+
+}
+nav a{
+	color: black;
+	display: block;
+	padding: 15px;
+	border-top: 1px solid gray;
+	padding: 10px;
+	font-size: 20px;
+}
